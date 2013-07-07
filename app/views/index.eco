@@ -1,0 +1,5 @@
+<div id="original"></div>
+<div id="padded"></div>
+<div id="fft"></div>
+<div id="padded-inverse"></div>
+<div id="inverse"></div>
